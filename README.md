@@ -50,5 +50,4 @@ Abra o Notebook no Google Colab para praticar os exercícios.
 https://colab.research.google.com/drive/15HJPZs844mE9LgW0-UIwoZVO5qDD-2of
 
 
-
 Sinta-se à vontade para clonar este repositório e adicionar suas próprias soluções e anotações.
